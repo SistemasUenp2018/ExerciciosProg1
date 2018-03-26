@@ -4,6 +4,11 @@
 ______________________________________________________________________
 ### Contribuam!
 
+[Exercícios da Página 13](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicio%201%20pag%2013) <br> 
+[Exercícios da Página 19](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2019) <br>
+[Exercícios da Página 26](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2026)<br>
+
+
 Por favor, manter o padrão de codificação/comentários
 para que todos possamos entender o que estamos fazendo
 para arrebentarmos na prova ;D
@@ -19,3 +24,4 @@ media = media + (input("Digite o valor do segundo numero: ")) #Atribuindo na var
 media = (media/2) #os numeros jah estavam somados, entao agorah eh so dividir os dois numeros para obter a media
 print("O valor da media eh: ", media) #exibindo a media
 ```
+
