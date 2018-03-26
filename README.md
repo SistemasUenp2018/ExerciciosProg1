@@ -4,7 +4,11 @@
 ______________________________________________________________________
 ### Contribuam!
 
-# [Link do GDRIVE](https://drive.google.com/drive/folders/1ve5E4mTikVpQPy6DsVhHYaGfCQxtKFUa?usp=sharing)
+# [Link raiz do GDRIVE](https://drive.google.com/drive/folders/1ve5E4mTikVpQPy6DsVhHYaGfCQxtKFUa?usp=sharing)
+## [Pasta de Programação 1](https://drive.google.com/drive/folders/12Cd7x_rp-3tJq3By1rvsqfh7Vz_XsoEN?usp=sharing)
+## [Pasta de Psicologia](https://drive.google.com/drive/folders/1cUscql3ZRA6-UnxcwrYvpi_6Z6A8Fd23?usp=sharing)
+## [Pasta de Relações Humanas](https://drive.google.com/drive/folders/1Mzr4UqUMzDf3elph10hXYPP-0cbz294Y?usp=sharing)
+## [Pasta de Sistemas de Informação](https://drive.google.com/drive/folders/1K42obwAe4uVQBBvrQks7cvSa_Mousjr4?usp=sharing)
 
 [Exercícios da Página 13](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicio%201%20pag%2013) <br>
 [Exercícios da Página 19](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2019) <br>
