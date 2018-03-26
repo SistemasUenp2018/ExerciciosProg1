@@ -1,17 +1,17 @@
 # Exercícios da Apostila de Programação 1 UENP 2018
 
-##Curso de Sistemas de Informação
+## Curso de Sistemas de Informação
 ______________________________________________________________________
-###Contribuam!
+### Contribuam!
 
 Por favor, manter o padrão de codificação/comentários
 para que todos possamos entender o que estamos fazendo
 para arrebentarmos na prova ;D
 
 
-###Segue abaixo, modelo de código comentado
+### Segue abaixo, modelo de código comentado
 
-###Exercicio 01.py
+### Exercicio 01.py
 ```
 media = 0 #a variavel que vai guardar o valor desejado
 media = input("Digite o valor do primeiro numero: ") #Recebendo o valor do primeiro numero na variavel
