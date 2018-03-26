@@ -17,5 +17,6 @@ if codigoProduto <= 5 and codigoProduto > 0: #Se o codigo do produto for maior o
     if codigoProduto == 1: #Se o codigo do produto for maior ou igual a um, e maior que zero, faca!
         print("O valor total eh ", qtdProduto * 5.78) #Exiba a quantia do produto multiplicado pelo valor informado
 
+
 else:
     print("Produto nao encontrado")
