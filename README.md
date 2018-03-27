@@ -32,6 +32,6 @@ print("O valor da media eh: ", media) #exibindo a media
 ```
 
 
-##Em caso de dúvidas quanto à linguagem, consultar a documentação do Python
-##[Documentação (Oficial) do Python](https://docs.python.org/3/)
+## Em caso de dúvidas quanto à linguagem, consultar a documentação do Python
+## [Documentação (Oficial) do Python](https://docs.python.org/3/)
 
