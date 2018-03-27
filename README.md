@@ -1,6 +1,5 @@
 # Repositório da Turma de S.I UENP 2018
 
-## Curso de Sistemas de Informação
 ______________________________________________________________________
 
 # [Link raiz do GDRIVE](https://drive.google.com/drive/folders/1ve5E4mTikVpQPy6DsVhHYaGfCQxtKFUa?usp=sharing)
@@ -31,4 +30,8 @@ media = media + (input("Digite o valor do segundo numero: ")) #Atribuindo na var
 media = (media/2) #os numeros jah estavam somados, entao agorah eh so dividir os dois numeros para obter a media
 print("O valor da media eh: ", media) #exibindo a media
 ```
+
+
+##Em caso de dúvidas quanto à linguagem, consultar a documentação do Python
+##[Documentação (Oficial) do Python](https://docs.python.org/3/)
 
