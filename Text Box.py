@@ -1,3 +1,5 @@
+#Disponivel apenas no Windows!
+
 import Tkinter
 import tkMessageBox
 window = Tkinter.Tk()
