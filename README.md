@@ -8,7 +8,7 @@ ______________________________________________________________________
 ## [Pasta de Sistemas de Informação](https://drive.google.com/drive/folders/1K42obwAe4uVQBBvrQks7cvSa_Mousjr4?usp=sharing)
 ## [Pasta de Programação 1](https://drive.google.com/drive/folders/12Cd7x_rp-3tJq3By1rvsqfh7Vz_XsoEN?usp=sharing)
 
-[Exercícios da Página 13](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicio%201%20pag%2013) <br>
+[Exercícios da Página 13](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2013) <br>
 [Exercícios da Página 19](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2019) <br>
 [Exercícios da Página 26](https://github.com/SistemasUenp2018/ExerciciosProg1/tree/master/Exercicios%20pag%2026) <br>
 
