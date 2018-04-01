@@ -8,5 +8,5 @@ elif condicaoPagamento == 2:
     print("O valor da venda eh: R$ %.2f"%(precoVenda*0.95))
 
 elif condicaoPagamento == 1:
-    print("O valor da venda eh: R$ %.2f"%(precoVenda*0.90))
+    print("O valor da venda eh: R$ %.2f"%(precoVenda*0.90JS))
 
