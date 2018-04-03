@@ -2,7 +2,7 @@
 
 
 contador =0 #Contador/Sentinela da estrutura While
-limite = int(input("Digite ateh qual espiral de fibonacci voce deseja ver")) #Recebendo a entrada, que
+limite = int(input("Digite ateh qual espiral de fibonacci voce deseja ver: ")) #Recebendo a entrada, que
 # definirah a quantidade de numeros da sequencia de fibonacci
 
 def fibonacci(n): #Criacao da funcao
