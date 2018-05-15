@@ -9,7 +9,7 @@ cont =0
 num = 150
 num2 = 3
 while (cont < 150) :
-    print("Cont ", cont )
+    print("Cont ", cont)
     print("num ", num)
     print("num2 ", num2)
     caneta.circle(num) #desenha um circulo de 50px
