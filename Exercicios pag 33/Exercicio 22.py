@@ -11,7 +11,6 @@ dado6 =0
 
 while contador <= 787:
     dado = random.randint(1, 6)
-
     if dado == 1:
         dado1 +=1
     elif dado == 2:
@@ -24,7 +23,6 @@ while contador <= 787:
         dado5 +=1
     elif dado == 6:
         dado6 +=1
-
     contador+=1
 
 print("o 1 saiu %s vezes, o que equivale a %2.f porcento" % (dado1, (dado1/787)*100))
